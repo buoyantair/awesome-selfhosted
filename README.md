@@ -955,6 +955,7 @@ See also https://github.com/n1trux/awesome-sysadmin#it-asset-management
 - [Benedetto](https://github.com/arecker/bennedetto) - Bennedetto is a simple, turn-based budget management app. `GPL-3.0` `Python`
 - [Boodle](https://github.com/manuel-uberti/boodle) - Simple accounting single-page application in Clojure and ClojureScript. `EPL-1.0` `Clojure`
 - [Budget App](https://github.com/paukiatwee/budgetapp/) - Budget App is an open source personal budgeting application. `Apache-2.0` `Java`
+- [Cobudget](https://github.com/cobudget/cobudget/) - Cobudget is a tool and a methodology that makes resource allocation participatory. It enables all members of an organization to get involved in decision-making by proposing projects and allocating funds to the proposals they like. ([Source code](https://github.com/cobudget/cobudget/), [Demo](https://cobudget.co/)) `CC0-1.0` `Ruby`
 - [Dot Ledger](https://www.dotledger.com/) - Web-based personal finance management tool. ([Demo](https://demo.dotledger.com/), [Source Code](https://github.com/dotledger/dotledger)) `Apache-2.0` `Ruby`
 - [Economizzer](http://www.economizzer.org/) - An easy and secure system for you to manage your personal money and achieve your goals, and can be accessed by computer, tablet or smartphone. ([Demo](https://github.com/gugoan/economizzer#live-demo), [Source Code](https://github.com/gugoan/economizzer)) `MIT` `PHP`
 - [ExMoney](https://github.com/gaynetdinov/ex_money) - Self-hosted personal finance app. `ISC` `Elixir`
